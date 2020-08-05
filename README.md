@@ -1,10 +1,12 @@
-<div align='center' style="margin-bottom: 2em;">
+<div align='center'>
   <img src="https://user-images.githubusercontent.com/22723/89439417-04937a80-d6ff-11ea-8564-0d6f8b9b8b61.png" width=256 height=256/>
   <h1>GitHub Office of the CTO</h1>
   <div>
     <a href="https://octo.github.com">octo.github.com</a> • <a href="https://twitter.com/githubOCTO">@githubOCTO</a> • <a href="">Newsletter</a>
   </div>
 </div>
+
+---
 
 GitHub’s Office of the CTO (OCTO) investigates topics around the future of software development. We're excited to engage with the community of futurists, academics, and developers who are figuring out what software development will look like — not tomorrow, but next year, or next decade.
 
