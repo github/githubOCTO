@@ -14,8 +14,8 @@ GitHub’s Office of the CTO (OCTO) investigates topics around the future of sof
 
 # Join the discussion!
 
-We've enabled GitHub Discussions on this repository so the community can engage with our speakers and with one another. Head to the <a href="https://github.com/github/githubOCTO/discussions">Discussions</a> tab to take part! There will be one thread for each speaker series session, but you're free to create additional topics.
+We've enabled GitHub Discussions on this repository so the community can engage with our speakers and with one another. Head to the [Discussions](https://github.com/github/githubOCTO/discussions) tab to take part! There will be one thread for each speaker series session, but you're free to create additional topics.
 
-We want to keep the discussions area a friendly and welcoming place for everyone taking part. Please respect the <a href="https://github.com/github/githubOCTO/blob/master/CODE_OF_CONDUCT.md">code of conduct</a> and be excellent to each other.
+We want to keep the discussions area a friendly and welcoming place for everyone taking part. Please respect the <a [code of conduct](https://github.com/github/githubOCTO/blob/master/CODE_OF_CONDUCT.md) and be excellent to each other.
 
 
