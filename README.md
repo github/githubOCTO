@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/22723/89439417-04937a80-d6ff-11ea-8564-0d6f8b9b8b61.png" width=256 height=256/>
   <h1>GitHub Office of the CTO</h1>
   <div>
-    <a href="https://octo.github.com">octo.github.com</a> • <a href="https://twitter.com/githubOCTO">@githubOCTO</a> • <a href="">Newsletter</a>
+    <a href="https://octo.github.com">octo.github.com</a> • <a href="https://twitter.com/githubOCTO">@githubOCTO</a> • <a href="http://eepurl.com/haxLoP">Newsletter</a>
   </div>
 </div>
 
